@@ -1,2 +1,5 @@
-1.7;
-- testing lmao
+1.34;
+- added herobrine
+- added left scroll
+- added ligma cool stuff pog
+- removed herobrine
