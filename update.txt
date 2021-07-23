@@ -1,3 +1,3 @@
-1.7.1;
+1.7(MAC ONLY PRERELEASE);
 - TESTING OK?
-- If you see this DO NOT REPORT BUGS thx :D
+- If you see this and you are on Windows... getrekt :D
